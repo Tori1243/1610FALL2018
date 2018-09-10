@@ -7,7 +7,7 @@ public class Animal : MonoBehaviour {
 	// Use this for initialization
 	void Start ()
 	{
-		print("hello world.");
+		print("I am an animal.");
 	}
 	
 	// Update is called once per frame

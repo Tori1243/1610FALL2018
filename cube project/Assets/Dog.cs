@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Dog : MonoBehaviour {
+public class Dog : Animal
+{
 
 	// Use this for initialization
-	void Start ()
+	void Awake ()
 	{
 		print("I am a dog");
 	}

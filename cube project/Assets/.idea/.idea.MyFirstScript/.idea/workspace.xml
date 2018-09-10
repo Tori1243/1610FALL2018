@@ -19,13 +19,13 @@
       <file leaf-file-name="Animal.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Animal.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <marker date="1536613230517" expanded="false" signature="6:78" ph="..." />
-                <marker date="1536613230517" expanded="true" signature="116:260" ph="{...}" />
-                <marker date="1536613230517" expanded="true" signature="167:196" ph="{...}" />
-                <marker date="1536613230517" expanded="true" signature="251:258" ph="{...}" />
+                <marker date="1536614427729" expanded="false" signature="6:78" ph="..." />
+                <marker date="1536614427729" expanded="true" signature="116:263" ph="{...}" />
+                <marker date="1536614427729" expanded="true" signature="167:199" ph="{...}" />
+                <marker date="1536614427729" expanded="true" signature="254:261" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -34,13 +34,13 @@
       <file leaf-file-name="Dog.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dog.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <marker date="1536614048403" expanded="false" signature="6:78" ph="..." />
-                <marker date="1536614048403" expanded="true" signature="113:255" ph="{...}" />
-                <marker date="1536614048403" expanded="true" signature="164:191" ph="{...}" />
-                <marker date="1536614048403" expanded="true" signature="246:253" ph="{...}" />
+                <marker date="1536614586962" expanded="false" signature="6:78" ph="..." />
+                <marker date="1536614586962" expanded="true" signature="106:248" ph="{...}" />
+                <marker date="1536614586962" expanded="true" signature="157:184" ph="{...}" />
+                <marker date="1536614586962" expanded="true" signature="239:246" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -115,12 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536612392325</updated>
-      <workItem from="1536612394931" duration="1787000" />
+      <workItem from="1536612394931" duration="2769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1787000" />
+    <option name="totallyTimeSpent" value="2769000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -133,7 +133,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="240" y="130" width="1440" height="780" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" />
@@ -172,26 +171,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Animal.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1536613230517" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536613230517" expanded="true" signature="116:260" ph="{...}" />
-            <marker date="1536613230517" expanded="true" signature="167:196" ph="{...}" />
-            <marker date="1536613230517" expanded="true" signature="251:258" ph="{...}" />
+            <marker date="1536614427729" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536614427729" expanded="true" signature="116:263" ph="{...}" />
+            <marker date="1536614427729" expanded="true" signature="167:199" ph="{...}" />
+            <marker date="1536614427729" expanded="true" signature="254:261" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dog.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <marker date="1536614048403" expanded="false" signature="6:78" ph="..." />
-            <marker date="1536614048403" expanded="true" signature="113:255" ph="{...}" />
-            <marker date="1536614048403" expanded="true" signature="164:191" ph="{...}" />
-            <marker date="1536614048403" expanded="true" signature="246:253" ph="{...}" />
+            <marker date="1536614586962" expanded="false" signature="6:78" ph="..." />
+            <marker date="1536614586962" expanded="true" signature="106:248" ph="{...}" />
+            <marker date="1536614586962" expanded="true" signature="157:184" ph="{...}" />
+            <marker date="1536614586962" expanded="true" signature="239:246" ph="{...}" />
           </folding>
         </state>
       </provider>
