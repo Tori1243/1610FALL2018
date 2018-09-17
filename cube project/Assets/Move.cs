@@ -19,7 +19,7 @@ public class Move : MonoBehaviour {
 	void Update ()
 	{
 		MoveSpeed.x = Speed*Input.GetAxis("Horizontal");
-		MoveSpeed *= Time.deltaTime;
+                                    		MoveSpeed *= Time.deltaTime;
 
 		Character.Move(MoveSpeed);
 	}
