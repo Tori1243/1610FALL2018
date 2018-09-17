@@ -56,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Varibles.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Varibles.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Varibles.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="405">
@@ -72,6 +72,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AddMoney.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddMoney.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+              <folding>
+                <marker date="1537220536239" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537220536239" expanded="true" signature="117:304" ph="{...}" />
+                <marker date="1537220536239" expanded="true" signature="215:240" ph="{...}" />
+                <marker date="1537220536239" expanded="true" signature="295:302" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -79,6 +94,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/MyFirstScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddMoney.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Dog.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Move.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Animal.cs" root0="FORCE_HIGHLIGHTING" />
@@ -91,6 +107,7 @@
         <option value="$PROJECT_DIR$/Dog.cs" />
         <option value="$PROJECT_DIR$/Move.cs" />
         <option value="$PROJECT_DIR$/Varibles.cs" />
+        <option value="$PROJECT_DIR$/AddMoney.cs" />
       </list>
     </option>
   </component>
@@ -148,12 +165,12 @@
       <updated>1536612392325</updated>
       <workItem from="1536612394931" duration="2769000" />
       <workItem from="1536785094308" duration="2765000" />
-      <workItem from="1537210787960" duration="3265000" />
+      <workItem from="1537210787960" duration="4031000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8799000" />
+    <option name="totallyTimeSpent" value="9565000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,6 +331,19 @@
             <marker date="1537219596488" expanded="true" signature="388:516" ph="{...}" />
             <marker date="1537219596488" expanded="true" signature="466:513" ph="{...}" />
             <marker date="1537219596488" expanded="true" signature="570:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddMoney.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <marker date="1537220536239" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537220536239" expanded="true" signature="117:304" ph="{...}" />
+            <marker date="1537220536239" expanded="true" signature="215:240" ph="{...}" />
+            <marker date="1537220536239" expanded="true" signature="295:302" ph="{...}" />
           </folding>
         </state>
       </provider>
