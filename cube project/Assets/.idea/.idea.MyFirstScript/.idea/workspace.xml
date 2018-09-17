@@ -41,16 +41,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Move.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Move.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Move.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
               <folding>
                 <marker date="1537217440539" expanded="false" signature="6:78" ph="..." />
                 <marker date="1537217440539" expanded="true" signature="114:469" ph="{...}" />
                 <marker date="1537217440539" expanded="true" signature="164:171" ph="{...}" />
                 <marker date="1537217440539" expanded="true" signature="344:467" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Varibles.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Varibles.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <marker date="1537219596488" expanded="false" signature="6:78" ph="..." />
+                <marker date="1537219596488" expanded="true" signature="117:611" ph="{...}" />
+                <marker date="1537219596488" expanded="true" signature="388:516" ph="{...}" />
+                <marker date="1537219596488" expanded="true" signature="466:513" ph="{...}" />
+                <marker date="1537219596488" expanded="true" signature="570:609" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,6 +82,7 @@
     <setting file="file://$PROJECT_DIR$/Dog.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Move.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Animal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Varibles.cs" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,6 +90,7 @@
         <option value="$PROJECT_DIR$/Animal.cs" />
         <option value="$PROJECT_DIR$/Dog.cs" />
         <option value="$PROJECT_DIR$/Move.cs" />
+        <option value="$PROJECT_DIR$/Varibles.cs" />
       </list>
     </option>
   </component>
@@ -130,12 +148,12 @@
       <updated>1536612392325</updated>
       <workItem from="1536612394931" duration="2769000" />
       <workItem from="1536785094308" duration="2765000" />
-      <workItem from="1537210787960" duration="2330000" />
+      <workItem from="1537210787960" duration="3265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7864000" />
+    <option name="totallyTimeSpent" value="8799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,12 +294,26 @@
     <entry file="file://$PROJECT_DIR$/Move.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding>
             <marker date="1537217440539" expanded="false" signature="6:78" ph="..." />
             <marker date="1537217440539" expanded="true" signature="114:469" ph="{...}" />
             <marker date="1537217440539" expanded="true" signature="164:171" ph="{...}" />
             <marker date="1537217440539" expanded="true" signature="344:467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Varibles.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1537219596488" expanded="false" signature="6:78" ph="..." />
+            <marker date="1537219596488" expanded="true" signature="117:611" ph="{...}" />
+            <marker date="1537219596488" expanded="true" signature="388:516" ph="{...}" />
+            <marker date="1537219596488" expanded="true" signature="466:513" ph="{...}" />
+            <marker date="1537219596488" expanded="true" signature="570:609" ph="{...}" />
           </folding>
         </state>
       </provider>
