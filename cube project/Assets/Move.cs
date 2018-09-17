@@ -11,7 +11,6 @@ public class Move : MonoBehaviour {
 	
 	// Update is called once per frame\
 	public CharacterController Character;
-
 	public float Speed;
 	public Vector3 MoveSpeed;
 	public Vector3 RotateSpeed;
@@ -19,8 +18,7 @@ public class Move : MonoBehaviour {
 	void Update ()
 	{
 		MoveSpeed.x = Speed*Input.GetAxis("Horizontal");
-                                    		MoveSpeed *= Time.deltaTime;
-
+        MoveSpeed *= Time.deltaTime;
 		Character.Move(MoveSpeed);
 	}
 }
