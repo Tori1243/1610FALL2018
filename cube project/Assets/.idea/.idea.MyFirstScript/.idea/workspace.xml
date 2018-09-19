@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e470de4-6129-471b-8809-f82cb2b5fe53" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.MyFirstScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MyFirstScript/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddValue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AddValue.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -93,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <marker date="1537389777290" expanded="true" signature="79:107" ph="{...}" />
               </folding>
@@ -104,11 +104,12 @@
       <file leaf-file-name="AddValue.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AddValue.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="405">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <marker date="1537390987835" expanded="true" signature="78:193" ph="{...}" />
-                <marker date="1537390987835" expanded="true" signature="152:191" ph="{...}" />
+                <marker date="1537393087933" expanded="true" signature="78:442" ph="{...}" />
+                <marker date="1537393087933" expanded="true" signature="267:371" ph="{...}" />
+                <marker date="1537393087933" expanded="true" signature="343:370" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -153,8 +154,8 @@
         <option value="$PROJECT_DIR$/Varibles.cs" />
         <option value="$PROJECT_DIR$/AddMoney.cs" />
         <option value="$PROJECT_DIR$/MouseDownBehavior.cs" />
-        <option value="$PROJECT_DIR$/AddValue.cs" />
         <option value="$PROJECT_DIR$/FloatData.cs" />
+        <option value="$PROJECT_DIR$/AddValue.cs" />
       </list>
     </option>
   </component>
@@ -165,8 +166,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="208" />
-    <option name="y" value="29" />
+    <option name="x" value="216" />
+    <option name="y" value="117" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -213,12 +214,12 @@
       <workItem from="1536612394931" duration="2769000" />
       <workItem from="1536785094308" duration="2765000" />
       <workItem from="1537210787960" duration="4434000" />
-      <workItem from="1537389631949" duration="1687000" />
+      <workItem from="1537389631949" duration="2817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11655000" />
+    <option name="totallyTimeSpent" value="12785000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -230,8 +231,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="208" y="29" width="1440" height="780" extended-state="0" />
-    <editor active="true" />
+    <frame x="216" y="117" width="1440" height="780" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -451,7 +451,7 @@
     <entry file="file://$PROJECT_DIR$/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <marker date="1537389777290" expanded="true" signature="79:107" ph="{...}" />
           </folding>
@@ -486,11 +486,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddValue.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="405">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <marker date="1537390987835" expanded="true" signature="78:193" ph="{...}" />
-            <marker date="1537390987835" expanded="true" signature="152:191" ph="{...}" />
+            <marker date="1537393087933" expanded="true" signature="78:442" ph="{...}" />
+            <marker date="1537393087933" expanded="true" signature="267:371" ph="{...}" />
+            <marker date="1537393087933" expanded="true" signature="343:370" ph="{...}" />
           </folding>
         </state>
       </provider>
