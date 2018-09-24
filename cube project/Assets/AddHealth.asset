@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62356f87a9a4f4b4c8b8b376253f0199, type: 3}
   m_Name: AddHealth
   m_EditorClassIdentifier: 
-  ValueObj: {fileID: 0}
+  ValueObj: {fileID: 11400000, guid: 9c3d39a539ba2a443b80ecb16699ada8, type: 2}

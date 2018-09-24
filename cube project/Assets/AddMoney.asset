@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62356f87a9a4f4b4c8b8b376253f0199, type: 3}
   m_Name: AddMoney
   m_EditorClassIdentifier: 
-  ValueObj: {fileID: 0}
+  ValueObj: {fileID: 11400000, guid: 08ef0b8d1998905488929dd27478e86a, type: 2}
