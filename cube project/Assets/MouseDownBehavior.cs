@@ -3,10 +3,15 @@ using UnityEngine;
 
 public class MouseDownBehavior : MonoBehaviour
 {
-	public UnityEvent Event;
+	public UnityEvent MouseDown;
+	public UnityEvent MouseUp;
 	
 	private void OnMouseDown()
 	{
-		Event.Invoke();
+		MouseDown.Invoke();
+	}
+	private void OnMouseup()
+	{
+		MouseUp.Invoke();
 	}
 }
