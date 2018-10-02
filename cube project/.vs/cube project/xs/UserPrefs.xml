@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{636A8E1C-0F49-E423-983C-9F5B37A64B9F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PowerUpChecker.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PowerUp_SO.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/AddMoney.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FloatData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IfStatements.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AddValue.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Move.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NameID.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MyFirstScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PowerUpChecker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
