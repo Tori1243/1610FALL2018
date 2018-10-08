@@ -10,9 +10,11 @@
           <e p="AddValue.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
+          <e p="DestroyObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="IfStatements.cs" t="Include" />
+          <e p="Instancing.cs" t="Include" />
           <e p="MouseDownBehavior.cs" t="Include" />
           <e p="Move.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
