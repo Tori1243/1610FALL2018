@@ -7,6 +7,7 @@
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
           <e p="AddMoney.cs" t="Include" />
+          <e p="AddToCollection.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
@@ -20,6 +21,7 @@
           <e p="Move.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
+          <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="PowerUp_SO.cs" t="Include" />
           <e p="PowerUpChecker.cs" t="Include" />
