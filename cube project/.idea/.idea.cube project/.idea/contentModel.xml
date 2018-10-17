@@ -10,6 +10,7 @@
           <e p="AddToCollection.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
+          <e p="ChangeValue.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestroyObject.cs" t="Include" />
           <e p="Dog.cs" t="Include" />
@@ -26,6 +27,8 @@
           <e p="PowerUp_SO.cs" t="Include" />
           <e p="PowerUpChecker.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="UpdateImageValue.cs" t="Include" />
+          <e p="ValueChange.cs" t="Include" />
           <e p="Varibles.cs" t="Include" />
           <e p="WhatCanSeeIt.cs" t="Include" />
         </e>
