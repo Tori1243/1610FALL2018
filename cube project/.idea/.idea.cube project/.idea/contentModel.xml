@@ -5,14 +5,13 @@
     <e p="C:\Users\10842811\Documents\1610FALL2018\cube project" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="AI" t="Include">
-          <e p="AiAgent.cs" t="Include" />
-        </e>
         <e p="Scripts" t="Include">
           <e p="AddMoney.cs" t="Include" />
           <e p="AddToCollection.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
+          <e p="AiAgent.cs" t="Include" />
           <e p="Animal.cs" t="Include" />
+          <e p="BasicAi.cs" t="Include" />
           <e p="ChangeValue.cs" t="Include" />
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestroyObject.cs" t="Include" />
