@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="856f1f63-8573-42ae-bfe9-ae55ee7e38fe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AI/AiAgent.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/AI/AiAgent.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ExtraScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ExtraScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="856f1f63-8573-42ae-bfe9-ae55ee7e38fe" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +139,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="190" />
     <option name="y" value="123" />
     <option name="width" value="1616" />
@@ -219,12 +213,12 @@
       <workItem from="1539812558334" duration="15000" />
       <workItem from="1540413115128" duration="2178000" />
       <workItem from="1540845048486" duration="2067000" />
-      <workItem from="1541454583163" duration="1188000" />
+      <workItem from="1541454583163" duration="1389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22733000" />
+    <option name="totallyTimeSpent" value="22934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -236,8 +230,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="123" width="1616" height="900" extended-state="1" />
-    <editor active="true" />
+    <frame x="190" y="123" width="1616" height="900" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
