@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="856f1f63-8573-42ae-bfe9-ae55ee7e38fe" name="Default" comment="" />
+    <list default="true" id="856f1f63-8573-42ae-bfe9-ae55ee7e38fe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.cube project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Names.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Names.unity" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Instancing.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Instancing.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -85,12 +89,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="EventRepeat.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <marker date="1541628969666" expanded="true" signature="6:104" ph="..." />
+                <marker date="1541628969666" expanded="true" signature="146:467" ph="{...}" />
+                <marker date="1541628969666" expanded="true" signature="283:463" ph="{...}" />
+                <marker date="1541628969666" expanded="true" signature="299:460" ph="{...}" />
+                <marker date="1541628969666" expanded="true" signature="408:427" ph="{...}" />
+                <marker date="1541628969666" expanded="true" signature="435:456" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BasicAi.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
@@ -130,6 +152,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SwitchStatements.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BasicAi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs" />
       </list>
     </option>
   </component>
@@ -139,7 +162,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="190" />
     <option name="y" value="123" />
     <option name="width" value="1616" />
@@ -214,11 +237,12 @@
       <workItem from="1540413115128" duration="2178000" />
       <workItem from="1540845048486" duration="2067000" />
       <workItem from="1541454583163" duration="1389000" />
+      <workItem from="1541627600680" duration="1635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22934000" />
+    <option name="totallyTimeSpent" value="24569000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -231,6 +255,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="190" y="123" width="1616" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -240,7 +265,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2570694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26028278" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,12 +286,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Run" order="9" />
       <window_info anchor="bottom" id="Unit Tests" order="3" />
       <window_info anchor="bottom" id="Find" order="8" />
@@ -275,7 +300,7 @@
       <window_info anchor="bottom" id="Terminal" order="4" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -591,9 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameStates.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -639,6 +661,21 @@
             <marker date="1539033645328" expanded="true" signature="85:284" ph="{...}" />
             <marker date="1539033645328" expanded="true" signature="165:281" ph="{...}" />
             <marker date="1539033645328" expanded="true" signature="203:278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EventRepeat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <marker date="1541628969666" expanded="true" signature="6:104" ph="..." />
+            <marker date="1541628969666" expanded="true" signature="146:467" ph="{...}" />
+            <marker date="1541628969666" expanded="true" signature="283:463" ph="{...}" />
+            <marker date="1541628969666" expanded="true" signature="299:460" ph="{...}" />
+            <marker date="1541628969666" expanded="true" signature="408:427" ph="{...}" />
+            <marker date="1541628969666" expanded="true" signature="435:456" ph="{...}" />
           </folding>
         </state>
       </provider>
