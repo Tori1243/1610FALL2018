@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(CharacterController ))]
 public class CharacterMover : MonoBehaviour
 {
 	private CharacterController Controller;
 	
 	public float Gravity = 9.81f;
 	public float MoveSpeed = 3.0f;
-	public float JumpSpeed = 3.0f;
+	public float JumpSpeed = 4.0f;
 	
 	private Vector3 position;
 	private Vector3 rotation;
