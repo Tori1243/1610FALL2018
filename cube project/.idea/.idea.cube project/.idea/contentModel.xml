@@ -28,12 +28,16 @@
           <e p="Movements.cs" t="Include" />
           <e p="MyFirstScript.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
           <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="PowerUp_SO.cs" t="Include" />
           <e p="PowerUpChecker.cs" t="Include" />
+          <e p="ShipStats.cs" t="Include" />
           <e p="SwitchStatements.cs" t="Include" />
+          <e p="TransformObject.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="UpdateAnims.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />
           <e p="ValueChange.cs" t="Include" />
           <e p="Varibles.cs" t="Include" />
