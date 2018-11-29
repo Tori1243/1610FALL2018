@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Assets/Scripts/TransformObject.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ShipStats.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CharacterMover.cs" Line="15" Column="4" />
+      <File FileName="Assets/Scripts/CharacterMover.cs" Line="39" Column="2" />
       <File FileName="Assets/Scripts/LocalVars.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Counter.cs" Line="26" Column="1" />
     </Files>
