@@ -12,7 +12,7 @@ public class CharacterMover : MonoBehaviour
 	public float JumpSpeed = 4.0f;
 	
 	private Vector3 position;
-	private Vector3 rotation;
+	//private Vector3 rotation;
 	
 	void Start ()
 	{
@@ -23,9 +23,9 @@ public class CharacterMover : MonoBehaviour
 	{
 		if (Controller.isGrounded)
 		{
-			position.Set(0, 0, MoveSpeed*Input.GetAxis("Vertical"));
-			rotation.Set(0, Input.GetAxis("Horizontal"), 0);
-			transform.Rotate(rotation);
+			position.Set(MoveSpeed * Input.GetAxis("Vertical"), 0, 0);
+			//rotation.Set(0, Input.GetAxis("Horizontal"), 0);
+			//transform.Rotate(rotation);
 			position = transform.TransformDirection(position);
 			
 			if (Input.GetButton("Jump")) 
