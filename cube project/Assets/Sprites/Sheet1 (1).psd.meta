@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: 79a330f966f183542abe9e7ab87a4dee
+guid: aa76b934a6d9d45e18205ee8e5854fb2
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Sheet1_0
-    21300002: Sheet1_1
-    21300004: Sheet1_2
-    21300006: Sheet1_3
-    21300008: Sheet1_4
-    21300010: Sheet1_5
-    21300012: Sheet1_6
+    21300000: Sheet1 (1)_0
+    21300002: Sheet1 (1)_1
+    21300004: Sheet1 (1)_2
+    21300006: Sheet1 (1)_3
+    21300008: Sheet1 (1)_4
+    21300010: Sheet1 (1)_5
+    21300012: Sheet1 (1)_6
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -28,6 +28,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -38,7 +40,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: -1
@@ -89,7 +91,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sheet1_0
+      name: Sheet1 (1)_0
       rect:
         serializedVersion: 2
         x: 119
@@ -97,19 +99,19 @@ TextureImporter:
         width: 114
         height: 113
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 593cd5369d7c062458c64443e1a858c6
+      spriteID: fb01ad763d01d45cf802efa8c0e22627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sheet1_1
+      name: Sheet1 (1)_1
       rect:
         serializedVersion: 2
         x: 420
@@ -117,19 +119,19 @@ TextureImporter:
         width: 570
         height: 437
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 74f4f994748b8b74f85192ee1620537a
+      spriteID: f5857504414d943fab729f9f2cf9661d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sheet1_2
+      name: Sheet1 (1)_2
       rect:
         serializedVersion: 2
         x: 132
@@ -137,19 +139,19 @@ TextureImporter:
         width: 88
         height: 83
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 662731e7b5b7ab44f83fc78ffe21f938
+      spriteID: 559a24a6dc19342fa9c34f5f06ced8ad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sheet1_3
+      name: Sheet1 (1)_3
       rect:
         serializedVersion: 2
         x: 132
@@ -157,19 +159,19 @@ TextureImporter:
         width: 156
         height: 127
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e685778b963f76741b6c812bf27bedef
+      spriteID: c02e85a2052bf41d0aa553c60aa517e2
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sheet1_4
+      name: Sheet1 (1)_4
       rect:
         serializedVersion: 2
         x: 132
@@ -177,19 +179,19 @@ TextureImporter:
         width: 110
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 340a68b082d5abb469b774d561e6e84c
+      spriteID: 3e848e8ef0ec74ec7850f4dbe653f96f
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sheet1_5
+      name: Sheet1 (1)_5
       rect:
         serializedVersion: 2
         x: 120
@@ -197,19 +199,19 @@ TextureImporter:
         width: 132
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: feb4a312090e9c3409cf92926c455d24
+      spriteID: adcfd7fb47c8e472f90cce365cfae108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sheet1_6
+      name: Sheet1 (1)_6
       rect:
         serializedVersion: 2
         x: 111
@@ -217,13 +219,13 @@ TextureImporter:
         width: 153
         height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69ce5b546e12abb4eb73587f69ad8e10
+      spriteID: 50e684b031cc849d78a2e844cf4c7931
       vertices: []
       indices: 
       edges: []
@@ -231,12 +233,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c73174a82a82489438b4c576d94597c4
+    spriteID: e48a1c41daf04466ca4f5ace5552ff11
     vertices: []
     indices: 
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
