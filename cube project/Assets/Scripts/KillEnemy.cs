@@ -6,6 +6,12 @@ public class KillEnemy : MonoBehaviour
 {
     public void OnTriggerEnter(Collider other)
     {
-        Destroy(other.gameObject);
+        if (other.GetComponent<Health>())
+        {
+            if(other.GetComponent<Health>().health < 0)
+            Destroy(other.gameObject); 
+        }
     }
+
+    
 }

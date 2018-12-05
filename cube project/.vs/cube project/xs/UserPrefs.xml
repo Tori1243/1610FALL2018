@@ -20,12 +20,13 @@
       <File FileName="Assets/Scripts/SwitchStatements.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/GameStates.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/AddMoney.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="35" Column="6" />
       <File FileName="Assets/Scripts/Instancing.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/TriggerEventBehavior.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/UpdateAnims.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/WhatCanSeeIt.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/EnemyHealth.cs" Line="11" Column="36" />
+      <File FileName="Assets/Scripts/Health.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/Attack.cs" Line="11" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
