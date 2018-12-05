@@ -13,6 +13,7 @@ public class StateMachine : MonoBehaviour {
         }
     public void ChangeState(string NewState)
         {
+        print(NewState);
            GameState = NewState;
             Run();
         }
