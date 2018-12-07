@@ -27,7 +27,7 @@
       <File FileName="Assets/Scripts/EnemyHealth.cs" Line="11" Column="36" />
       <File FileName="Assets/Scripts/Health.cs" Line="12" Column="22" />
       <File FileName="Assets/Scripts/Attack.cs" Line="11" Column="6" />
-      <File FileName="Assets/Scripts/StateMachine.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/StateMachine.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
