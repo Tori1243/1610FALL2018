@@ -18,5 +18,10 @@ public class Health : MonoBehaviour {
         {
             DeathEvent.Invoke();
         }
+        else
+        {
+            return;
+        }
     }
+
 }
