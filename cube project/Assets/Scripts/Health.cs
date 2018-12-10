@@ -14,7 +14,7 @@ public class Health : MonoBehaviour {
     }
     public void KillPlayer()
     {
-        if (health < 0 && gameObject.tag == "Player")
+        if (health < 1 && gameObject.tag == "Player")
         {
             DeathEvent.Invoke();
         }
