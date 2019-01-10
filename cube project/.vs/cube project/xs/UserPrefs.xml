@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{636A8E1C-0F49-E423-983C-9F5B37A64B9F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ChangeValue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FlipScript.cs">
     <Files>
       <File FileName="Assets/Scripts/TransformObject.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ShipStats.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/CharacterMover.cs" Line="13" Column="5" />
+      <File FileName="Assets/Scripts/CharacterMover.cs" Line="38" Column="7" />
       <File FileName="Assets/Scripts/LocalVars.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/Counter.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/AiAgent.cs" Line="1" Column="1" />
@@ -25,12 +25,12 @@
       <File FileName="Assets/Scripts/UpdateAnims.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/WhatCanSeeIt.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/EnemyHealth.cs" Line="11" Column="36" />
-      <File FileName="Assets/Scripts/Health.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Health.cs" Line="22" Column="10" />
       <File FileName="Assets/Scripts/Attack.cs" Line="14" Column="1" />
       <File FileName="Assets/Scripts/StateMachine.cs" Line="16" Column="1" />
       <File FileName="Assets/Scripts/ObjectCollection.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/ObjectList.cs" Line="21" Column="2" />
-      <File FileName="Assets/Scripts/FlipScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/FlipScript.cs" Line="22" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
