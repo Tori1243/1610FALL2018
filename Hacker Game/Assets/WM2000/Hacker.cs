@@ -3,14 +3,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Hacker : MonoBehaviour {
+public class Hacker : MonoBehaviour
+{
 
     // Use this for initialization
-    void Start() {
+    void Start()
+    {
         ShowMainMenu();
     }
 
-    void ShowMainMenu() {
+    void ShowMainMenu()
+    {
         Terminal.ClearScreen();
         Terminal.WriteLine("What would you like to hack into?");
         Terminal.WriteLine("  ");
@@ -21,21 +24,28 @@ public class Hacker : MonoBehaviour {
         Terminal.WriteLine("Enter your selection: ");
     }
     // game state
-        int level;
-        enum Screen { MainMenu, Password, Win };
-        Screen currentScreen = Screen.MainMenu;
+    int level;
+    enum Screen { MainMenu, Password, Win };
+    Screen currentScreen = Screen.MainMenu;
 
     void OnUserInput(string input)
     {
-        if (input == "menu")
+        if (input == "menu") // We can always go to main menu
         {
             ShowMainMenu();
         }
-        else if (input == "007")
+        else if (currentScreen == Screen.MainMenu)
         {
-            Terminal.WriteLine("Plese Choose a level Mr. Bond");
+            RunMainMenu(input);
+
         }
-        else if (input == "1")
+
+    }
+
+    void RunMainMenu(string input)
+    {
+
+        if (input == "1")
         {
             level = 1;
             StartGame();
@@ -45,10 +55,15 @@ public class Hacker : MonoBehaviour {
             level = 2;
             StartGame();
         }
-        else
+        else 
         {
             Terminal.WriteLine("Please Choose Valid Level");
         }
+        if (input == "007")
+        {
+            Terminal.WriteLine("Please Choose a level Mr. Bond");
+        }
+
     }
 
     void StartGame()
@@ -56,5 +71,5 @@ public class Hacker : MonoBehaviour {
         currentScreen = Screen.Password;
         Terminal.WriteLine("Welcome to Level " + level);
         Terminal.WriteLine("Please Enter Your Password: ");
+        }
     }
-}
