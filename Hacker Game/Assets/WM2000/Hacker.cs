@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+//CODE ORGINALLY BELONGS TO UDEMY (Ben Tristem)
+//Using code to learn vocab and get used to scripting
 
+using UnityEngine;
 public class Hacker : MonoBehaviour
 {
 
