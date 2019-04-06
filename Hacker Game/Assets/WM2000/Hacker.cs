@@ -7,10 +7,14 @@ using System.Collections.Generic;
 using UnityEngine;
 public class Hacker : MonoBehaviour
 {
-
+    // Game configuration data
+    string[] level1Passwords = { "models", "movies", "NerfGun", "Games", "Digital" };
+    string[] level2Password = {"Criminals" , "Walkietalkie" , "emergency" , "Jail time"
+        , "Uniform"};
     // Use this for initialization
     void Start()
     {
+        print(level1Passwords[0]);
         ShowMainMenu();
     }
 
@@ -31,6 +35,7 @@ public class Hacker : MonoBehaviour
     enum Screen { MainMenu, Password, Win };
     Screen currentScreen;
     string password;
+
 
     void OnUserInput(string input)
     {
@@ -57,16 +62,16 @@ public class Hacker : MonoBehaviour
         if (input == "1")
         {
             level = 1;
-            password = "donkey";
+            password = level1Passwords[2]; //todo makerandomlater
             StartGame();
         }
         else if (input == "2")
         {
             level = 2;
-            password = "combobulate";
+            password = level2Password[4];
             StartGame();
         }
-        else 
+        else
         {
             Terminal.WriteLine("Please Choose Valid Level");
         }
@@ -82,7 +87,7 @@ public class Hacker : MonoBehaviour
         currentScreen = Screen.Password;
         Terminal.WriteLine("Welcome to Level " + level);
         Terminal.WriteLine("Please Enter Your Password: ");
-        }
+    }
     void CheckPassword(string input)
     {
         if (input == password)
