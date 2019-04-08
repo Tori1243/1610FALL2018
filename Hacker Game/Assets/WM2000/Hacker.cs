@@ -9,7 +9,7 @@ public class Hacker : MonoBehaviour
 {
     // Game configuration data
     string[] level1Passwords = { "models", "movies", "NerfGun", "Games", "Digital" };
-    string[] level2Password = {"Criminals" , "Walkietalkie" , "emergency" , "Jail time"
+    string[] level2Passwords = {"Criminals" , "Walkietalkie" , "emergency" , "Jail time"
         , "Uniform"};
     // Use this for initialization
     void Start()
@@ -58,36 +58,45 @@ public class Hacker : MonoBehaviour
 
     void RunMainMenu(string input)
     {
+        bool isValidLevelNumber = (input == "1" || input == "2");
+        if (isValidLevelNumber)
+        {
+            level = int.Parse(input);
+            StartGame();
+        }
+        else if (input == "007") //Easter Egg
+        {
+            Terminal.WriteLine("Please Choose a level Mr. Bond");
+        }
 
-        if (input == "1")
-        {
-            level = 1;
-            password = level1Passwords[2]; //todo makerandomlater
-            StartGame();
-        }
-        else if (input == "2")
-        {
-            level = 2;
-            password = level2Password[4];
-            StartGame();
-        }
         else
         {
             Terminal.WriteLine("Please Choose Valid Level");
         }
-        if (input == "007")
-        {
-            Terminal.WriteLine("Please Choose a level Mr. Bond");
-        }
+
 
     }
 
     void StartGame()
     {
         currentScreen = Screen.Password;
+        Terminal.ClearScreen();
         Terminal.WriteLine("Welcome to Level " + level);
+        switch(level)
+        {
+            case 1:
+                password = level1Passwords[0];
+                break;
+            case 2:
+                password = level2Passwords[1];
+                break;
+            default:
+                Debug.LogError("Invaild Level Number");
+                break;
+        }
         Terminal.WriteLine("Please Enter Your Password: ");
-    }
+    }  
+
     void CheckPassword(string input)
     {
         if (input == password)
