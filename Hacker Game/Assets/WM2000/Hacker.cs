@@ -106,7 +106,7 @@ public class Hacker : MonoBehaviour
     {
         if (input == password)
         {
-            Terminal.WriteLine("WELL DONE!");
+            DisplayWinScreen();
         }
         else
         {
@@ -114,4 +114,41 @@ public class Hacker : MonoBehaviour
 
         }
     }
+
+    void DisplayWinScreen()
+    {
+        currentScreen = Screen.Win;
+        Terminal.ClearScreen();
+        ShowLevelReward();
+    }
+    void ShowLevelReward()
+    {
+        switch (level)
+        {
+            case 1:
+            Terminal.WriteLine("WELL DONE!");
+                Terminal.WriteLine("Have a cat!");
+                Terminal.WriteLine(@"
+(^..^)
+"
+                );
+                break;
+            case 2:
+                Terminal.WriteLine("WELL DONE!");
+                Terminal.WriteLine("Have a Dino!");
+                Terminal.WriteLine(@"
+               __
+              / _)
+     _/\/\/\_/ /
+   _|         /
+ _|  (  | (  |
+/__.-'|_|--|_|  
+"
+                );
+                break;
+            default:
+                Debug.LogError("Invalid level reached");
+                break;
+        }
+    }       
 }
