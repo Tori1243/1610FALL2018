@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-//CODE ORGINALLY BELONGS TO UDEMY (Ben Tristem)
+﻿//CODE ORGINALLY BELONGS TO UDEMY (Ben Tristem)
 //Using code to learn vocab and get used to scripting
 
 using UnityEngine;
@@ -16,6 +13,11 @@ public class Hacker : MonoBehaviour
     {
         print(level1Passwords[0]);
         ShowMainMenu();
+    }
+    void Update()
+    {
+        int index = Random.Range(0, level1Passwords.Length);
+        print(index);
     }
 
     void ShowMainMenu()
@@ -79,16 +81,19 @@ public class Hacker : MonoBehaviour
 
     void StartGame()
     {
+        print(level1Passwords.Length);
+        print(level2Passwords.Length);
         currentScreen = Screen.Password;
         Terminal.ClearScreen();
         Terminal.WriteLine("Welcome to Level " + level);
         switch(level)
         {
             case 1:
-                password = level1Passwords[0];
+                password = level1Passwords[Random.Range(0, level1Passwords.Length)];
                 break;
             case 2:
-                password = level2Passwords[1];
+                int index2 = Random.Range(0, level2Passwords.Length);
+                password = level1Passwords[Random.Range(0, level2Passwords.Length)];
                 break;
             default:
                 Debug.LogError("Invaild Level Number");
