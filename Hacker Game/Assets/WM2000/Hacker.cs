@@ -138,8 +138,53 @@ public class Hacker : MonoBehaviour
     void ShowLevelReward()
     {
         switch (level)
+        {
+             case 1:
+                Terminal.WriteLine("WELL DONE!");
+                Terminal.WriteLine("Have a Dino!");
+                Terminal.WriteLine(@"
+               __
+              / _)
+     _/\/\/\_/ /
+   _|         /
+ _|  (  | (  |
+/__.-'|_|--|_| "
 
-        case 1:
+                );
+                break;
+            case 2:
+                Terminal.WriteLine("WELL DONE!");
+                Terminal.WriteLine("Have a Badge!");
+                Terminal.WriteLine(@"
+                                
+   ,   /\   ,
+  / '-'  '-' \
+ |   POLICE   |
+ \    .--.    /
+  |   (19)   |
+  \   '--'   /
+   '--.  .--'
+       \/
+"
+
+                );
+                break;
+            case 3:
+                Terminal.WriteLine("WELL DONE!");
+                Terminal.WriteLine("Have a Space Ship!");
+                Terminal.WriteLine(@"
+       / \
+      / _ \
+     |.o '.|
+     |'._.'|
+     |     |
+   ,'|  |  |`.
+  /  |  |  |  \
+  |,-'--|--'-.|
+"
+
+                );
+                break;
 
         }
     }       
