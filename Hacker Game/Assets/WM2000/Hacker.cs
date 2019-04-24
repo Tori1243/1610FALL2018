@@ -154,17 +154,12 @@ public class Hacker : MonoBehaviour
                 break;
             case 2:
                 Terminal.WriteLine("WELL DONE!");
-                Terminal.WriteLine("Have a Badge!");
-                Terminal.WriteLine(@"
-                                
-   ,   /\   ,
-  / '-'  '-' \
- |   POLICE   |
- \    .--.    /
-  |   (19)   |
-  \   '--'   /
-   '--.  .--'
-       \/
+                Terminal.WriteLine("Have a Police Car!");
+                Terminal.WriteLine(@"                        
+    _*_ 
+ __/_|_\__ 
+[(o)_R_(o)]       
+
 "
 
                 );
@@ -173,14 +168,12 @@ public class Hacker : MonoBehaviour
                 Terminal.WriteLine("WELL DONE!");
                 Terminal.WriteLine("Have a Space Ship!");
                 Terminal.WriteLine(@"
-       / \
-      / _ \
-     |.o '.|
-     |'._.'|
-     |     |
-   ,'|  |  |`.
-  /  |  |  |  \
-  |,-'--|--'-.|
+  /\
+ /||\
+/:||:\
+|:||:|
+|/||\|
+  **
 "
 
                 );
