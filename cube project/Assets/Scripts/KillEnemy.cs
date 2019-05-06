@@ -8,8 +8,10 @@ public class KillEnemy : MonoBehaviour
     {
         if (other.GetComponent<Health>())
         {
-            if(other.GetComponent<Health>().health < 0)
-            Destroy(other.gameObject);
+            if (other.GetComponent<Health>().health < 0)
+            {
+                Destroy(other.gameObject);
+            }
             Debug.Log("It works");
         }
     }

@@ -15,5 +15,7 @@ public class DestroyObject : MonoBehaviour
 	{
 		Destroy(gameObject);
 		Destroy(other.gameObject);
-	}
+       
+    }
+   
 }
