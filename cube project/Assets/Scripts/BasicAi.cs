@@ -16,5 +16,6 @@ public class BasicAi : MonoBehaviour
 	void Update ()
 	{
 		if (Destination != null) agent.destination = Destination.position;
+        Debug.Log(" ai null");
 	}
 }

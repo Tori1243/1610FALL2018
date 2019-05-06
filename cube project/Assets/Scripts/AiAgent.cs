@@ -14,8 +14,4 @@ public class AiAgent : MonoBehaviour {
     }
 	
 	// Update is called once per frame
-	void OnTriggerStay ()
-    {
-        agent.destination = destination.position; 
-	}
 }
